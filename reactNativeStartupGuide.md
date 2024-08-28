@@ -1,4 +1,5 @@
-"Steps to Download the react native application in apk format"
+Steps to Download the react native application in apk format
+
 Step 1 : 
 ```
 npm install -g eas-cli
